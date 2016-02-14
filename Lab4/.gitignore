@@ -52,3 +52,5 @@ Temp
 *.csproj
 *.pidb
 *.sln
+
+Library/
